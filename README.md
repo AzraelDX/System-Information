@@ -1,2 +1,1 @@
-# System-Information
- System Information für dein Discord Bot für Discord.py oder andern Wrappern sei dir sicher aber das du auch noch die Embed.py Datei brauchst
+System information for your Discord bot for Discord.py or other wrappers be sure but that you also need the Embed.py file
